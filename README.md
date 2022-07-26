@@ -22,6 +22,6 @@
 
 - [HuggingFace Zeroth_Korean dataset](https://huggingface.co/datasets/kresnik/zeroth_korean)
 
-- [HugginFace fine-tuned Wav2Vec2.0 Korean](https://huggingface.co/kresnik/wav2vec2-large-xlsr-korean)
+- [HuggingFace fine-tuned Wav2Vec2.0 Korean](https://huggingface.co/kresnik/wav2vec2-large-xlsr-korean)
 
 - [Nemo Pretrained Model](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/stt_en_conformer_ctc_large_ls)
